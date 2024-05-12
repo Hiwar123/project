@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;  /* Light gray background */
+    color: #333;  /* Dark gray text color */
+  }
+  
+  h1.title {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .website-image {
+    display: block;
+    margin: 0 auto;
+    width: 80%; /* Adjust width as needed */
+  }
+  
+  .content {
+    margin-top: 30px;
+  }
+  
+  /* Section intros */
+  .intro {
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #990000;  /* Maroon color for titles */
+  }
+  
+  /* Feature list */
+  .feature-list {
+    list-style: disc;
+    padding-left: 20px;
+    margin-bottom: 15px;  /* Add some space after the list */
+  }
+  
+  .feature-list li {
+    margin-bottom: 5px;  /* Space between list items */
+  }
+
+  img{
+
+width: 100%;
+border: #333 10;
+height: 400px;
+  }
